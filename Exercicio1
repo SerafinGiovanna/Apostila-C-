@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int N1;
+    cout << "Digite um numero: ";
+    cin >> N1;
+    cout << "Digite um numero: ";
+    int N2;
+    cin >> N2;
+    int tot;
+    tot = N1 + N2;
+    cout <<"O resultado foi:  " << tot;
+    return 0;
+}
