@@ -2,14 +2,16 @@
 using namespace std;
 
 int main() {
-    int N1;
+    int firstNumber, secondNumber;
+    int total;
+
     cout << "Digite um numero: ";
-    cin >> N1;
+    cin >> firstNumber;
     cout << "Digite um numero: ";
-    int N2;
-    cin >> N2;
-    int tot;
-    tot = N1 + N2;
+    cin >> secondNumber;
+
+    tot = firstNumber + secondNumber;
+    
     cout <<"O resultado foi:  " << tot;
     return 0;
 }
