@@ -5,9 +5,10 @@ Neste Repositorio vai conter as apostilas de exercicios e conteúdos. Dentro del
 # Índice
 
   **Exercicíos**
+  
    [Apostila 1](#Apostila-1) 
   ###### ----------------------------------------------------------------------
-- [Exercicío 1 - Exibir soma de dois números.](#Exercicío-1-exibir-soma-de-dois-números)
+  - [Exercicío 1 - Exibir soma de dois números.](#Exercicío-1-exibir-soma-de-dois-números)
   - [Exercicío 2 - Calculadora.](#Exercicío-2-calculadora)
   - [Exercicío 3 - Consumo Médio.](#Exercicío-3-consumo-médio)
   - [Exercicío 4 - Salário com 15% de comissão.](#Exercicío-4-salário-com-15-de-comissão)
@@ -23,11 +24,10 @@ Neste Repositorio vai conter as apostilas de exercicios e conteúdos. Dentro del
 
 
 # Exercicíos
+## Apostila 1 
 ***
 
-## Apostila 1 
-
-### Exibir soma de dois números.
+## Exibir soma de dois números.
 Faça um algoritmo que receba dois números e exiba o resultado da sua soma.
 ***
 ## Calculadora.
