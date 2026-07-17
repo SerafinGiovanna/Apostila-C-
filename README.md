@@ -11,7 +11,7 @@ Neste Repositorio vai conter as apostilas de exercicios e conteúdos. Dentro del
   - [Exercicío 1 - Exibir soma de dois números.](#Exibir-soma-de-dois-números)
   - [Exercicío 2 - Calculadora.](#Calculadora)
   - [Exercicío 3 - Consumo Médio.](#Consumo-Médio)
-  - [Exercicío 4 - Salário com 15% de comissão.](#Salário-com-15%-de-comissão)
+  - [Exercicío 4 - Salário com 15% de comissão.](#Salário-com-15-de-comissão)
   - [Exercicío 5 - Média Aritmética.](#Média-Aritmética)
   - [Exercicío 6 - Trocar valores de variáveis.](#Trocar-valores-de-variáveis)
   - [Exercicío 7 - Converter Graus Celcius para Fahrenheit.](#Converter-Graus-Celcius-para-Fahrenheit)
