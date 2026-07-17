@@ -3,10 +3,15 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6ec0058f-d12f-4d14-a688-0b3fc93ef6fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercicio12.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicio8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio8.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apostila 01/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,14 +33,17 @@
     <option name="minorVersion" value="1.4" />
     <option name="productBranch" value="Classic" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3GY9KDkdqFwlCMEVB11kGlIhjWK" />
-  <component name="ProjectStatusUIService"><![CDATA[{
-  "uiKindId": "Widget"
-}]]></component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -60,6 +68,7 @@
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/giovanna.santos/Documents/Atividades/cmake-build-debug/Apostila-C-/Exercicio8.cpp",
     "org.rust.first.attach.projects": "true",
+    "settings.editor.selected.configurable": "editor.preferences.completion.popup",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -149,10 +158,15 @@
       <option name="presentableId" value="Default" />
       <updated>1784137569692</updated>
       <workItem from="1784137570709" duration="9000000" />
+      <workItem from="1784312409529" duration="382000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
