@@ -8,18 +8,18 @@ Neste Repositorio vai conter as apostilas de exercicios e conteúdos. Dentro del
   
    [Apostila 1](#Apostila-1) 
   ###### ----------------------------------------------------------------------
-  - [Exercicío 1 - Exibir soma de dois números.](#Exercicío-1-exibir-soma-de-dois-números)
-  - [Exercicío 2 - Calculadora.](#Exercicío-2-calculadora)
-  - [Exercicío 3 - Consumo Médio.](#Exercicío-3-consumo-médio)
-  - [Exercicío 4 - Salário com 15% de comissão.](#Exercicío-4-salário-com-15-de-comissão)
-  - [Exercicío 5 - Média Aritmética.](#Exercicío-5-média-aritmética)
-  - [Exercicío 6 - Trocar valores de variáveis.](#Exercicío-6-trocar-valores-de-variáveis)
-  - [Exercicío 7 - Converter Graus Celcius para Fahrenheit.](#Exercicío-7-converter-graus-celcius-para-fahrenheit)
-  - [Exercicío 8 - Converter Dólar para Real.](#Exercicío-8-converter-dólar-para-real)
-  - [Exercicío 9 - Valor após um mês com rendimento.](#Exercicío-9-valor-após-um-mês-com-rendimento)
-  - [Exercicío 10 - Sem Juros.](#Exercicío-10-sem-juros)
-  - [Exercicío 11 Preço de venda.](#Exercicío-11-preço-de-venda)
-  - [Exercicío 12 - Custo ao consumidor.](#Exercicío-12-custo-ao-consumidor)
+  - [Exercicío 1 - Exibir soma de dois números.](#Exibir-soma-de-dois-números)
+  - [Exercicío 2 - Calculadora.](#Calculadora)
+  - [Exercicío 3 - Consumo Médio.](#Consumo-Médio)
+  - [Exercicío 4 - Salário com 15% de comissão.](#Salário-com-15-de-comissão)
+  - [Exercicío 5 - Média Aritmética.](#Média-Aritmética)
+  - [Exercicío 6 - Trocar valores de variáveis.](#Trocar-valores-de-variáveis)
+  - [Exercicío 7 - Converter Graus Celcius para Fahrenheit.](#Converter-Graus-Celcius-para-Fahrenheit)
+  - [Exercicío 8 - Converter Dólar para Real.](#Converter-Dólar-para-Real)
+  - [Exercicío 9 - Valor após um mês com rendimento.](#Valor-após-um-mês-com-rendimento)
+  - [Exercicío 10 - Sem Juros.](#Sem-Juros)
+  - [Exercicío 11 Preço de venda.](#Preço-de-Venda)
+  - [Exercicío 12 - Custo ao consumidor.](#Custo-ao-consumidor)
 ###### ------------------------------------------------------------------------
 
 
