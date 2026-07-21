@@ -2,18 +2,21 @@
 using namespace std;
 
 int main() {
-    int A, B, aux;
+    string name;
+    double test1, test2, test3, media;
 
-    cout << "A= ";
-    cin >> A;
-    cout << "B= ";
-    cin >> B;
+    cout << "Nome do aluno: " ;
+    cin >> name;
+    cout << "Nota da primeira prova de " << name << ": ";
+    cin >> test1;
+    cout << "Nota da segunda prova de " << name << ": ";
+    cin >> test2;
+    cout << "Nota da terceira prova de " << name << ": ";
+    cin >> test3;
 
-    aux = A;
-    A = B;
-    B = aux;
+    media = (test1 + test2 + test3) / 3;
 
-    cout << A << endl;
-    cout << B << endl;
+    cout << "A Media das notas de " << name << " e " << media << ": ";
+
 
 }
