@@ -6,15 +6,17 @@ Neste Repositorio vai conter as apostilas de exercicios e conteúdos. Dentro del
 
   **Exercicíos**
   
-   [Apostila 1](#Apostila-1) 
+  #### [Apostila 1](#Apostila-1) 
   ###### ----------------------------------------------------------------------
 - [APOSTILAS](#apostilas)
 - [Índice](#índice)
+      - [Apostila 1](#apostila-1)
           - [----------------------------------------------------------------------](#----------------------------------------------------------------------)
-          - [------------------------------------------------------------------------](#------------------------------------------------------------------------)
           - [----------------------------------------------------------------------](#-----------------------------------------------------------------------1)
+      - [Apostila 2](#apostila-2)
+          - [----------------------------------------------------------------------](#-----------------------------------------------------------------------2)
 - [Exercicíos](#exercicíos)
-  - [APOSTILA 1](#apostila-1)
+  - [APOSTILA 1](#apostila-1-1)
   - [Exibir soma de dois números.](#exibir-soma-de-dois-números)
   - [Calculadora.](#calculadora)
   - [Consumo Médio.](#consumo-médio)
@@ -27,15 +29,17 @@ Neste Repositorio vai conter as apostilas de exercicios e conteúdos. Dentro del
   - [Sem Juros.](#sem-juros)
   - [Preço de venda.](#preço-de-venda)
   - [Custo ao consumidor.](#custo-ao-consumidor)
-  - [APOSTILA 1](#apostila-1-1)
+  - [APOSTILA 1](#apostila-1-2)
   - [Exame Chunin.](#exame-chunin)
   - [Continha.](#continha)
-###### ------------------------------------------------------------------------
 
-[Apostila 2](#Apostila-2)
+
 ###### ----------------------------------------------------------------------
+#### [Apostila 2](#Apostila-2)
+
 - [Exercício 1 - Exame Chunin.](#Exame-Chunin)
 - [Exercício 2 - Continha.](#Continha)
+###### ----------------------------------------------------------------------
 
 # Exercicíos
 ## APOSTILA 1 
