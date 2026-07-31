@@ -6,39 +6,27 @@ Neste Repositorio vai conter as apostilas de exercicios e conteúdos. Dentro del
 
   **Exercicíos**
   
-  #### [Apostila 1](#Apostila-1) 
+  ### Apostila 1
   ###### ----------------------------------------------------------------------
-- [APOSTILAS](#apostilas)
-- [Índice](#índice)
-      - [Apostila 1](#apostila-1)
-          - [----------------------------------------------------------------------](#----------------------------------------------------------------------)
-          - [----------------------------------------------------------------------](#-----------------------------------------------------------------------1)
-      - [Apostila 2](#apostila-2)
-          - [----------------------------------------------------------------------](#-----------------------------------------------------------------------2)
-- [Exercicíos](#exercicíos)
-  - [APOSTILA 1](#apostila-1-1)
-  - [Exibir soma de dois números.](#exibir-soma-de-dois-números)
-  - [Calculadora.](#calculadora)
-  - [Consumo Médio.](#consumo-médio)
-  - [Salário com 15% de comissão.](#salário-com-15-de-comissão)
-  - [Média Aritmética.](#média-aritmética)
-  - [Trocar valores de variáveis.](#trocar-valores-de-variáveis)
-  - [Converter Graus Celcius para Fahrenheit.](#converter-graus-celcius-para-fahrenheit)
-  - [Converter Dólar para Real.](#converter-dólar-para-real)
-  - [Valor após um mês com rendimento.](#valor-após-um-mês-com-rendimento)
-  - [Sem Juros.](#sem-juros)
-  - [Preço de venda.](#preço-de-venda)
-  - [Custo ao consumidor.](#custo-ao-consumidor)
-  - [APOSTILA 1](#apostila-1-2)
-  - [Exame Chunin.](#exame-chunin)
-  - [Continha.](#continha)
+  - [Exercício - 1 Exibir soma de dois números.](#exibir-soma-de-dois-números)
+  - [Exercício - 2 Calculadora.](#calculadora)
+  - [Exercício - 3 Consumo Médio.](#consumo-médio)
+  - [Exercício - 4 Salário com 15% de comissão.](#salário-com-15-de-comissão)
+  - [Exercício - 5 Média Aritmética.](#média-aritmética)
+  - [Exercício - 6 Trocar valores de variáveis.](#trocar-valores-de-variáveis)
+  - [Exercício - 7 Converter Graus Celcius para Fahrenheit.](#converter-graus-celcius-para-fahrenheit)
+  - [Exercício - 8 Converter Dólar para Real.](#converter-dólar-para-real)
+  - [Exercício - 9 Valor após um mês com rendimento.](#valor-após-um-mês-com-rendimento)
+  - [Exercício - 10 Sem Juros.](#sem-juros)
+  - [Exercício - 11 Preço de venda.](#preço-de-venda)
+  - [Exercício - 12 Custo ao consumidor.](#custo-ao-consumidor)
 
 
 ###### ----------------------------------------------------------------------
-#### [Apostila 2](#Apostila-2)
+### Apostila 2
 
-- [Exercício 1 - Exame Chunin.](#Exame-Chunin)
-- [Exercício 2 - Continha.](#Continha)
+- [Exercício - 1 Exame Chunin.](#Exame-Chunin)
+- [Exercício - 2 Continha.](#Continha)
 ###### ----------------------------------------------------------------------
 
 # Exercicíos
