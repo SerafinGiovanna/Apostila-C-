@@ -8,23 +8,37 @@ Neste Repositorio vai conter as apostilas de exercicios e conteúdos. Dentro del
   
    [Apostila 1](#Apostila-1) 
   ###### ----------------------------------------------------------------------
-  - [Exercicío 1 - Exibir soma de dois números.](#Exibir-soma-de-dois-números)
-  - [Exercicío 2 - Calculadora.](#Calculadora)
-  - [Exercicío 3 - Consumo Médio.](#Consumo-Médio)
-  - [Exercicío 4 - Salário com 15% de comissão.](#Salário-com-15-de-comissão)
-  - [Exercicío 5 - Média Aritmética.](#Média-Aritmética)
-  - [Exercicío 6 - Trocar valores de variáveis.](#Trocar-valores-de-variáveis)
-  - [Exercicío 7 - Converter Graus Celcius para Fahrenheit.](#Converter-Graus-Celcius-para-Fahrenheit)
-  - [Exercicío 8 - Converter Dólar para Real.](#Converter-Dólar-para-Real)
-  - [Exercicío 9 - Valor após um mês com rendimento.](#Valor-após-um-mês-com-rendimento)
-  - [Exercicío 10 - Sem Juros.](#Sem-Juros)
-  - [Exercicío 11 Preço de venda.](#Preço-de-Venda)
-  - [Exercicío 12 - Custo ao consumidor.](#Custo-ao-consumidor)
+- [APOSTILAS](#apostilas)
+- [Índice](#índice)
+          - [----------------------------------------------------------------------](#----------------------------------------------------------------------)
+          - [------------------------------------------------------------------------](#------------------------------------------------------------------------)
+          - [----------------------------------------------------------------------](#-----------------------------------------------------------------------1)
+- [Exercicíos](#exercicíos)
+  - [APOSTILA 1](#apostila-1)
+  - [Exibir soma de dois números.](#exibir-soma-de-dois-números)
+  - [Calculadora.](#calculadora)
+  - [Consumo Médio.](#consumo-médio)
+  - [Salário com 15% de comissão.](#salário-com-15-de-comissão)
+  - [Média Aritmética.](#média-aritmética)
+  - [Trocar valores de variáveis.](#trocar-valores-de-variáveis)
+  - [Converter Graus Celcius para Fahrenheit.](#converter-graus-celcius-para-fahrenheit)
+  - [Converter Dólar para Real.](#converter-dólar-para-real)
+  - [Valor após um mês com rendimento.](#valor-após-um-mês-com-rendimento)
+  - [Sem Juros.](#sem-juros)
+  - [Preço de venda.](#preço-de-venda)
+  - [Custo ao consumidor.](#custo-ao-consumidor)
+  - [APOSTILA 1](#apostila-1-1)
+  - [Exame Chunin.](#exame-chunin)
+  - [Continha.](#continha)
 ###### ------------------------------------------------------------------------
 
+[Apostila 2](#Apostila-2)
+###### ----------------------------------------------------------------------
+- [Exercício 1 - Exame Chunin.](#Exame-Chunin)
+- [Exercício 2 - Continha.](#Continha)
 
 # Exercicíos
-## Apostila 1 
+## APOSTILA 1 
 ***
 
 ## Exibir soma de dois números.
@@ -67,4 +81,39 @@ Faça um algoritmo que receba o preço de custo de um produto e mostre o valor d
 ##  Custo ao consumidor.
 O custo ao consumidor de um carro novo é a soma do custo de fábrica com a porcentagem do distribuidor e dos impostos *<u>(aplicados, primeiro os impostos sobre o custo de fábrica, e depois a porcentagem do distribuidor sobre o resultado)</u>*. Supondo que a porcentagem do distribuidor seja de **28%** e os impostos **45%**, escrever um algoritmo que leia o custo de fábrica de um carro e informe o custo ao consumidor do mesmo.
 ***
-   
+## APOSTILA 1 
+***
+## Exame Chunin.
+A Aldeia da Folha deu início ao Exame Chunin! Nele, dezenas de ninjas dividiram-se em trios para disputar dois pergaminhos. Cada equipe iniciará a etapa do exame com um pergaminho, precisando lutar para conquistar outro pergaminho, mas precisa ser um de cada tipo para que possam se classificar para a segunda fase. 
+Baseado nisso, seu programa deverá avisar se o trio de Naruto Uzumaki, Sasuke Uchiha e Sakura Haruno foram classificados ou eliminados do Exame Chunin.
+
+**Entrada**
+A entrada é composta por dois caracteres **“P1” e “P2”**, dados em linhas diferentes e representando a característica de cada pergaminho. Portanto, “P1” e “P2” podem ser **“A” (azul), “B” (branco) e “N” (sem pergaminho)**.
+
+**Saída**
+A saída será composta pela mensagem “classificado”, indicando que o trio foi classificado **(dois pergaminhos distintos)** ou “eliminado” **(pergaminhos iguais ou pelo menos um pergaminho faltando)**, indicando a eliminação da equipe.
+
+**Exemplos**
+| **Entrada** | **Saída**    |
+|-------------|--------------|
+| A<br> B         | classificado |
+| B<br> B         | eliminado    |
+| A<br> N         | eliminado    |
+***
+
+## Continha.
+O semestre já começou e as aulas já estão ai. Você que não é bobo(a), nem nada, decidiu treinar programação com os melhores professores da UFBA. 
+E para mostrar seus conhecimentos, foi requisitado que você faça um programa para resolver a expressão matemática, dada por **((A + B) * (C - D) * (E + F)) / 2** e mostre para todos que você é fera nas continhas.
+
+**Entrada**
+A entrada contém 6 valores inteiros: **A, B, C, D, E, F (0 <= A, B, C, D, E, F <= 100)**.
+
+**Saída**
+Imprima a mensagem “Eu sou FERA nas continhas e o resultado é ”, sem as aspas, em
+seguida o resultado da expressão, que é um número real com uma casa decimal de precisão.
+
+| **Entrada** | **Saída** |
+|:------------|:----------|
+|7<br> 3<br> 15<br> 30<br> 0<br> 2| Eu sou FERA nas continhas e o resultado é -150.0|
+|1<br> 2<br> 10<br> 5<br> 2<br> 2| Eu sou FERA nas continhas e o resultado é 30.0|
+***
