@@ -2,15 +2,24 @@
 using namespace std;
 
 int main () {
-    int P ;
-    char C = '#', C2 = '>';
-
+    int P;
     cin >> P;
 
-    C2 -= 1;
-    C += 1;
+    char matriz[P][P];
 
-    for ()
+    for (int  i=0 ; i < P ; i++) {
+        for (int j=0 ; j < P ; j++) {
+        if (j < P - i - 1)
+            matriz[i][j] = '>' ;
+        else
+            matriz[i][j] = '#';
+        }
+    }
 
-    cout << "#" << P;
+    for (int  i=0 ; i < P ; i++) {
+        for (int j=0 ; j < P ; j++) {
+            cout << matriz[i][j];
+        }
+        cout << endl;
+    }
 }
