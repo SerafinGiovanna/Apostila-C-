@@ -27,6 +27,8 @@ Neste Repositorio vai conter as apostilas de exercicios e conteúdos. Dentro del
 
 - [Exercício - 1 Exame Chunin.](#Exame-Chunin)
 - [Exercício - 2 Continha.](#Continha)
+- [Exercício - 3 Desenhista.](#Desenhista)
+- [Exercício - 4 
 ###### ----------------------------------------------------------------------
 
 # Exercicíos
