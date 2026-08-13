@@ -31,6 +31,9 @@ Neste Repositorio vai conter as apostilas de exercicios e conteúdos. Dentro del
 - [Exercício - 4 Incursão da Divisão de Reconhecimento.](#Incursão-da-Divisão-de-Reconhecimento)
 - [Exercício - 5 Drone da Amazônia](#Drone-da-Amazônia)
 - [Exercício - 6 Média Ponderada](#Média-Ponderada)
+- [Exercício - 7 Contador de segundo](#Contador-de-segundo)
+- [Exercício - 8 Escolha do Campeão](#Escolha-do-Campeão)
+- [Exercício - 9 Contabilizando Pokémons](#Contabilizando-Pokémons)
 ###### ----------------------------------------------------------------------
 
 # Exercicíos
@@ -178,4 +181,65 @@ Seu programa deve imprimir em uma única linha “Soltar pacote” (sem aspas), 
 |:------------|:----------|
 |5 20 5 20|Soltar pacote|
 |3 4 2 4| Nao soltar pacote|
+***
+## Contador de segundo
+Senku é um garoto muito inteligente e gosta de contar o tempo em segundos. As vezes, quando precisa contar um tempo muito longo, ele pode se perder e errar a conta. Senku quer saber se contou o tempo de um determinado evento em segundos corretamente, para isso ele precisa que você converta o tempo em segundos, que ele calculou, para horas, minutos e segundos.
+
+**Entrada**
+
+Será dado um número inteiro N (1 <= N <= 100000000) que representa o tempo do  evento em segundos.
+
+**Saída**
+
+Contém o tempo dado em segundos convertido para horas, minutos e segundos,  como nos exemplos abaixo
+### Exemplos
+
+| **Entrada** | **Saída** |
+|:------------|:----------|
+|4000|1h 6m 40s|
+|5200|1h 26m 40s|
+|59|0h 0m 59s|
+
+***
+## Escolha do Campeão 
+League of Legends está cheio de campeões de vários tipos, de mentes malignas a monstros épicos. Diferentes campeões assumem diferentes papéis e usam diferentes estratégias. Lucas sempre joga LOL e gosta de variar na sua escolha de campeão, dessa vez ele quer jogar com o campeão de maior nível de poder dentre os que ele mais gosta. Dado um número ‘N’, que representa a quantidade de campeões favoritos de Lucas, ajude ele a decidir qual deles tem o maior nível.
+
+**Entrada**
+
+A entrada consiste na primeira linha de um número inteiro ‘N’ (1 < N < 100) que representa o número de campeões favoritos de Lucas. Nas próximas ‘N’ linhas será fornecido em cada uma, um número inteiro ‘P’ (0 <= P <= 10000) que representa o nível de poder de cada um dos ‘N’ campeões.
+
+**Saída**
+
+A saída deverá conter apenas o nível de poder do campeão mais forte.
+
+### Exemplos 
+
+| **Entrada** | **Saída** |
+|:------------|:----------|
+|3 <br>1500 <br>3600 <br>500|3600|
+|7 <br>300<br> 5200<br> 540<br> 729<br> 3567<br> 480<br> 4000|5200|
+
+***
+## Contabilizando Pokémons
+A Pokédex, também conhecida como Poké Agenda, é uma enciclopédia virtual portátil de alta tecnologia que os treinadores Pokémon transportam para registrar todas as espécies diferentes de Pokémon que são encontradas durante a sua viagem como treinadores. O novo modelo de Pokédex está sendo desenvolvido e registra monstrinhos das regiões de Kanto, Johto e Hoenn. Sempre que Pokémons de uma nova espécie são capturados, a Pokédex deve adicionar a quantidade de Pokémons capturados ao contador das regiões em que eles são originários. Sua missão é desenvolver um programa que implemente essa funcionalidade.
+
+**Entrada**
+
+A entrada é composta de 2 linhas. A primeira linha contém três inteiros que representam o número de pokémons já registrados na Pokédex de cada região, na ordem ‘K’ (Kanto), ‘J’ (Johto) e ‘H’ (Hoenn).  A segunda linha contém o número de novos pokémons capturados de cada região na mesma ordem da primeira linha.
+
+**Restrições:**
+
+(0 <= K,J,H <= 100)
+
+**Saída**
+
+Imprima, na ordem da entrada (K J H), o número total de pokémons de cada região após a nova contagem, separados por espaço. Imprima uma quebra de linha no fim.
+
+### Exemplos
+
+| **Entrada** | **Saída** |
+|:------------|:----------|
+|92 40 54 <br>1 0 0| 93 40 54 |
+|12 1 0 <br>0 2 2 | 12 3 2    |
+
 ***
