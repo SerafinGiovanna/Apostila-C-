@@ -2,9 +2,22 @@
 using namespace std;
 
 int main () {
+    int zagueiro, goleiro, direcaoAtacante, direcaoGol;
+    cin >> zagueiro;
+    cin >> goleiro;
+    cin >> direcaoAtacante;
+    cin >> direcaoGol;
 
-
-
+    if (zagueiro == direcaoAtacante) {
+        cout << "Driblado";
+    }else {
+        cout << "Bloqueado";
+    }
+    if (goleiro == direcaoGol) {
+        cout << endl << "Gol" ;
+    }else {
+        cout << endl << "...e o goleiro pega";
+    }
 
 
     // Z G D C
