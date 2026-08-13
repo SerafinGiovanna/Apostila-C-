@@ -4,16 +4,9 @@ using namespace std;
 int main () {
     int kanto, johto, hoenn;
 
-    cin >> kanto;
-    cin >> johto;
-    cin >> hoenn;
-
+    cin >> kanto >> johto >> hoenn;
     int kantoSoma, johtoSoma, hoennSoma;
-
-    cin >> kantoSoma;
-    cin >> johtoSoma;
-    cin >>hoennSoma;
-
+    cin >> kantoSoma >> johtoSoma >> hoennSoma;
     int K, J, H;
 
     K = ( kanto + kantoSoma);
